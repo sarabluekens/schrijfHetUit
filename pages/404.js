@@ -18,7 +18,7 @@ export default function Custom404() {
     <>postduif
         <Metadata page="404"/>
         <div>
-            <h1>Page not found</h1>
+            <h1>Page not found :/</h1>
             <p>Ai. Het lijkt erop dat de postduif een verkeerde afslag heeft genomen. Probeer het later eens opnieuw...</p>
             image
             <Image src="/img/postduif.png"width="800" height="800"/>
