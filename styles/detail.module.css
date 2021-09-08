@@ -1,0 +1,33 @@
+.neutral{
+  background-color: rgb(235, 227, 227);
+  font-family: 'New Tegomin';
+}
+
+.angry{
+  background-color: rgb(221, 179, 179);
+  font-family: 'Annie Use Your Telescope';
+}
+.happy{
+  background-color: rgb(235, 233, 159);
+  font-family: 'Amatic SC';
+}
+.sad{
+  background-color: #b1d2f1;
+  font-family: 'Caveat';
+}
+.love{
+  background-color: rgb(247, 194, 238);
+  font-family: 'News Cycle';
+}
+
+.detail {
+  height: 100vh;
+}
+
+.detail__title {
+  color: rgb(165, 108, 42);
+  font-size: 3rem;
+  text-align: center;
+  font-family: 'News Cycle';
+}
+

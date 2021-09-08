@@ -1,0 +1,15 @@
+.message {
+    text-align: center;
+    height: 50vh;
+}
+
+.title {
+    font-size: 3rem;
+
+}
+
+.text {
+    font-size: 2rem;
+    width: 50vw;
+    margin: auto;
+}

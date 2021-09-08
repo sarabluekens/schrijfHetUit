@@ -1,0 +1,27 @@
+.nav {
+    width: 100%;
+  }
+  
+  .nav__list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin-top: 1rem;
+  }
+  .nav__list__img {
+    padding-right: 5rem;
+    padding-top: 1rem;
+    width: 1rem;
+  }
+
+  .nav__list__item {
+    margin: 0 1rem;
+    font-size: 3rem;
+    font-family: 'Amatic SC', cursive;  
+  }
+
+  .nav__list__item:hover {
+    font-size: 3.5rem;
+    text-decoration: underline;
+  }

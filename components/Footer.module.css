@@ -1,0 +1,16 @@
+
+.footer {
+    composes: nav from "./Navbar.module.css";
+
+    margin-top: 3rem;
+  }
+  
+  .footer__list{
+    composes: nav__list from "./Navbar.module.css";
+    justify-content: space-between;
+  }
+  
+  .footer__list__item {
+    composes: nav__list__item from "./Navbar.module.css";
+    color: rgb(73, 73, 73);
+  }
